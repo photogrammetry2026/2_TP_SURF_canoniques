@@ -55,10 +55,10 @@ Le TP s’appuie sur les fichiers suivants :
 - **`TP2.pdf`**  
   → Protocole détaillé du TP (slides)
 
-- **`simple_geometry.stl`**  
+- **`simple_geometry.ply`**  
   → Géométrie simple, destinée à la prise en main et à la validation de la procédure
 
-- **`complex_geometry.stl`**  
+- **`complex_geometry.ply`**  
   → Géométrie plus complexe, mettant en évidence les limites et difficultés de la reconstruction
 
 ---
